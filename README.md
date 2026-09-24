@@ -23,7 +23,7 @@ Build a single-view dashboard that lets a business stakeholder answer, at a glan
 - **Total sales reached 769M** across 19K units sold and 4K transactions, with an average transaction value of 40K.
 - **Apple led all brands** with 162M in sales, ahead of Samsung (160M), OnePlus (154M), Vivo (150M), and Xiaomi (144M).
 - **Delhi contributed the largest regional share**, accounting for 26% of total revenue — more than any other city.
-- **Debit Card was the most-used payment method**, contributing roughly 26% of total revenue, narrowly ahead of Credit Card and Cash.
+- **UPI was the most-used payment method**, contributing roughly 26% of total revenue, narrowly ahead of Credit Card and Cash.
 - **Demand fluctuated month to month** rather than following a flat trend, with visible peaks worth investigating further against promotions or seasonal demand.
 
 ## Tools used
@@ -32,4 +32,4 @@ Build a single-view dashboard that lets a business stakeholder answer, at a glan
 - DAX (calculated measures)
 
 ## Dashboard preview
-![SmartPhoneSales dashboard screenshot](SmartPhone_Sales_Dashboard.png)
+![Dashboard](SmartPhone_Sales_Dashboard.png)
