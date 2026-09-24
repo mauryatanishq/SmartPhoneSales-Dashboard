@@ -32,4 +32,4 @@ Build a single-view dashboard that lets a business stakeholder answer, at a glan
 - DAX (calculated measures)
 
 ## Dashboard preview
-![dashboard screenshot](SmartPhone_Sales_Dashboard.png)
+![Dashboard screenshot](SmartPhone_Sales_Dashboard.png)
